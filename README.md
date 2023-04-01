@@ -2,7 +2,7 @@
 # Dataset 
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 
-#Insights 
+# Insights 
 
 .Resort hotels and city hotels combined 62.86% clients did not cancel their reservations and 37% clients canceled their reservations. This 37% cancellation significantly affects on hotel earnings. 
 .The reservation rate of city hotels is higher than the reservation rate of resort hotels. So it can be said that the demand of city hotels is more than resort hotels. The main reason for this is that resort hotels are more expensive than city hotels.
