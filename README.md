@@ -34,10 +34,10 @@ Imported these libraries which are very necessary in this project :-
 After collecting csv files and loading it into Python performed various activities like removing missing values, remove unimportant rows and columns and fixing type errors that can be easily analyzed.
 
 # Data Analysis and Visualization 
-* Created count plot between hotel reservation Canceled and Not Canceled. 
-* Created vertical Bar chart between Reservation status in Resort Hotel and City Hotel.
-* Created Line chart between average daily rate in City and Resort hotel. 
-* Created Vertical Bar chart between reservation status per month Canceled and Not Canceled. 
+* Created count plot between hotel reservation canceled and not canceled. 
+* Created vertical Bar chart with Reservation status in Resort Hotel and City Hotel.
+* Created Line chart with average daily rate in City and Resort hotel. 
+* Created Vertical Bar chart with reservation status per month Canceled and Not Canceled. 
 * Created vertical Bar chart for to see ADR per month. 
 * Created pie chart to analysis Top 10 countries with reservation canceled. 
 * Created Line chart with Average daily rate between Hotel canceled and not canceled.  
