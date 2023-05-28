@@ -45,6 +45,7 @@ their reservations
 * Data cleaning and processing
 * Data Analysis and Visualization 
 * Final Insights
+* Suggestions
 
 # Import Libraries 
 Imported these libraries which are very necessary in this project :-   
@@ -85,6 +86,20 @@ After collecting csv files and loading it into Python performed various activiti
 * Around 47% of the clients come from online travel agencies. whereas 16% come from groups. Only 10% of clients book hotels directly by visiting them and making  reservations.
 
 * Reservations are canceled when the average daily rate is higher than what it would have been without cancellations. From all the above analysis it is clear that higher prices lead to higher cancellations.
+
+# Suggestions 
+1. Reservation cancellations were highest when hotel rates were high. So 
+hotels can change their pricing strategy and lower their rates based on 
+location to reduce cancellation rates. They can also provide some 
+discounts to the consumers.
+2. As cancellation and non-cancellation ratio in resort hotels is higher in 
+resort hotels than in city hotels. So hotels should offer reasonable 
+discounts on room rates during weekends or holidays.
+3. Hotels can do campaigns or advertising with the right price in January as 
+cancellations are highest in January.
+4. In order to reduce the cancellation rate they can mainly improve their 
+hotel and their service quality in Portugal as cancellation rate is highest 
+in Portugal.
 
  
         
